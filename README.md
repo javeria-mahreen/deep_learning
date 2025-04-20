@@ -32,7 +32,7 @@ The models were trained on the **Fruits-360** dataset, which contains over 90,00
 
 The dataset used in this project is the **Fruits-360** dataset, available on Kaggle:
 
-- [Fruits-360 Dataset]([https://www.kaggle.com/datasets/visionaryai/fruit360](https://www.kaggle.com/datasets/moltean/fruits))
+- https://www.kaggle.com/datasets/moltean/fruits 
 
 
 
