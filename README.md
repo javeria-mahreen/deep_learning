@@ -1,7 +1,7 @@
-# Fruits and vegetables classification
+# Deep Learning Project
 
 
-# Fruit and Vegetable Classification 
+# Fruit and Vegetable Classification mainly using CNN
 
 ## Problem Statement
 
@@ -24,4 +24,4 @@ The dataset used in this project is the **Fruits-360** dataset, available on Kag
 
 ---
 
-This README provides a high-level overview of the project, the problem, and dataset details in a straightforward format.
+
